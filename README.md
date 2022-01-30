@@ -19,3 +19,9 @@ Todos os projetos que foram desenvolvidos durante meu aprendizado
 - Imagem da tela principal:
 
 ![image](https://user-images.githubusercontent.com/15204919/151716717-8a10c44f-424e-4811-b4b4-3d0d95739508.png)
+
+##
+- Projeto: Calculadora
+- Linguagem: HTML, CSS, JavaScript
+- Descrição: "Código-fonte de um site que a função é uma calculadora completa, com design e usabilidade."
+- Data de Envio ao GitHub: 30/01/2022
