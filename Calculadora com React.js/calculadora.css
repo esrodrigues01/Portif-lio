@@ -1,0 +1,48 @@
+button
+{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover
+{
+    cursor: pointer;
+}
+
+.wrapper
+{
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.laranja
+{
+    background-color: #FF9500;
+    color:white;
+}
+
+.cinzaClaro
+{
+    background-color: #D3D3D3;
+    color:black;
+}
+
+.cinzaEscuro
+{
+    background-color: #696969;
+    color:white;
+}
+
+.resultado
+{
+    color: white;
+    display: flex;
+    justify-content: right;
+    margin-right: 1em;
+    font-size: 4em;
+}
