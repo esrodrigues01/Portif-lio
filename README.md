@@ -25,3 +25,12 @@ Todos os projetos que foram desenvolvidos durante meu aprendizado
 - Linguagem: HTML, CSS, JavaScript
 - Descrição: "Código-fonte de um site que a função é uma calculadora completa, com design e usabilidade."
 - Data de Envio ao GitHub: 30/01/2022
+
+##
+- Projeto: Calculadora com React.js
+- Linguagem: HTML, CSS, JavaScript, React.js
+- Descrição: "Código-fonte de um site que a função é uma calculadora completa, com design do iphone e usabilidade."
+- Ferramentas Ultilizdas: VS Code, Node.js, NPM (npm i @emotion/react, npm i @mui/material, npm i @emotion/styled)
+- Data de Envio ao GitHub: 01/02/2022
+
+![image](https://user-images.githubusercontent.com/15204919/152021675-cdecf997-6e3d-4ffd-96b4-3ea6278f97db.png)
