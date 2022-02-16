@@ -34,3 +34,13 @@ Todos os projetos que foram desenvolvidos durante meu aprendizado
 - Data de Envio ao GitHub: 01/02/2022
 
 ![image](https://user-images.githubusercontent.com/15204919/152021675-cdecf997-6e3d-4ffd-96b4-3ea6278f97db.png)
+
+
+- Projeto: Reconhecimento Facial em tempo real usando python
+- Linguagem: Python
+- Descrição: "Código-fonte de numa aplicação usando a biblioteca cv2 qe detecta rostos, olhos e sorriso em tempo real."
+- Ferramentas Ultilizdas: VS Code, python, PIP ( pip install opencv-python)
+- Data de Envio ao GitHub: 15/02/2022
+
+![Captura de Tela (7)](https://user-images.githubusercontent.com/15204919/154173843-cfcffc42-793c-433a-b2fc-726fc69439a3.png)
+
